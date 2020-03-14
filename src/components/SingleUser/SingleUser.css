@@ -1,0 +1,10 @@
+.card{
+    width: 22rem;
+    float: left;
+    margin: 5px;
+    position: relative;
+    background-color: #6BC199;
+}
+img{
+    height: 285px;
+}
